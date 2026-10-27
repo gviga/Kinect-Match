@@ -1,0 +1,6 @@
+numpy
+scipy
+trimesh
+rtree
+potpourri3d
+pillow

@@ -1,0 +1,97 @@
+{
+  "description": "KINECT test set used in NAM (ACM TOG 2025) and FUSE (ECCV 2026): 15 BEHAVE frames, 10k points each.",
+  "subsample": "splits/kinect15_idx.npz",
+  "shapes": [
+    {
+      "name": "data_1011",
+      "frame": "Date01_Sub01_stool_sit/t0040.000",
+      "fit": "fit02",
+      "n_scan": 331340
+    },
+    {
+      "name": "data_1166",
+      "frame": "Date01_Sub01_tablesmall_lift/t0003.000",
+      "fit": "fit02",
+      "n_scan": 365321
+    },
+    {
+      "name": "data_118",
+      "frame": "Date01_Sub01_backpack_hug/t0036.000",
+      "fit": "fit02",
+      "n_scan": 383614
+    },
+    {
+      "name": "data_122",
+      "frame": "Date01_Sub01_backpack_hug/t0040.000",
+      "fit": "fit02",
+      "n_scan": 376312
+    },
+    {
+      "name": "data_1283",
+      "frame": "Date01_Sub01_tablesquare_hand/t0024.000",
+      "fit": "fit02",
+      "n_scan": 388333
+    },
+    {
+      "name": "data_1353",
+      "frame": "Date01_Sub01_tablesquare_lift/t0046.000",
+      "fit": "fit02",
+      "n_scan": 333490
+    },
+    {
+      "name": "data_2",
+      "frame": "Date01_Sub01_backpack_back/t0007.000",
+      "fit": "fit02",
+      "n_scan": 391666
+    },
+    {
+      "name": "data_370",
+      "frame": "Date01_Sub01_boxtiny_hand/t0003.000",
+      "fit": "fit02",
+      "n_scan": 374311
+    },
+    {
+      "name": "data_417",
+      "frame": "Date01_Sub01_boxtiny_hand/t0050.000",
+      "fit": "fit02",
+      "n_scan": 423624
+    },
+    {
+      "name": "data_425",
+      "frame": "Date01_Sub01_chairblack_hand/t0010.000",
+      "fit": "fit02",
+      "n_scan": 368129
+    },
+    {
+      "name": "data_45",
+      "frame": "Date01_Sub01_backpack_hand/t0006.000",
+      "fit": "fit02",
+      "n_scan": 354723
+    },
+    {
+      "name": "data_506",
+      "frame": "Date01_Sub01_chairblack_lift/t0043.000",
+      "fit": "fit02",
+      "n_scan": 333551
+    },
+    {
+      "name": "data_690",
+      "frame": "Date01_Sub01_chairwood_sit/t0036.000",
+      "fit": "fit02",
+      "n_scan": 316718
+    },
+    {
+      "name": "data_812",
+      "frame": "Date01_Sub01_monitor_hand/t0021.000",
+      "fit": "fit02",
+      "n_scan": 351602
+    },
+    {
+      "name": "data_827",
+      "frame": "Date01_Sub01_monitor_hand/t0038.000",
+      "fit": "fit02",
+      "n_scan": 342831
+    }
+  ],
+  "corres": "splits/kinect15_corres.npz"
+}
