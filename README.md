@@ -27,7 +27,7 @@ It is the KINECT test set of
 ## Quick start
 
 ```bash
-git clone https://github.com/gviga/KINECT && cd KINECT
+git clone https://github.com/gviga/Kinect-Match && cd Kinect-Match
 pip install -r requirements.txt
 
 # 1. Accept the BEHAVE license and download the BEHAVE sequences of Date01

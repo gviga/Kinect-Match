@@ -1,0 +1,4 @@
+# keep data files byte-identical on every platform
+*.off -text
+*.vts -text
+*.json text eol=lf
