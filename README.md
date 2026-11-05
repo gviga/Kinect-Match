@@ -1,14 +1,14 @@
-# KINECT: real Kinect point clouds with SMPL ground truth
+# KINECT-Match: Matching non-rigid point clouds from Kinect acquisitions
 
 ![KINECT teaser](assets/teaser.png)
 
-**KINECT** is a benchmark for shape correspondence on *real* acquisitions: 15 point
+**KINECT-Match** is a benchmark for shape correspondence on *real* acquisitions: 15 point
 clouds of a person interacting with objects, captured by Kinect sensors, with
 ground-truth correspondence from an SMPL registration. The clouds are noisy and
 incomplete, the way real scans are. Points are coloured by their ground-truth
 location on the body: the same colour is the same place across shapes.
 
-It is the KINECT test set of
+It is the KINECT-Match test set of
 [NAM: Neural Adjoint Maps (ACM TOG 2025)](https://doi.org/10.1145/3730943) and
 **FUSE: A Flow-based Mapping Between Shapes (ECCV 2026)**.
 
